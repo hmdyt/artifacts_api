@@ -1,4 +1,4 @@
-//go:generate go run github.com/ogen-go/ogen/cmd/ogen --target ./openapi -package openapi --clean ope
+//go:generate go run github.com/ogen-go/ogen/cmd/ogen --target ./openapi -package openapi --clean openapi.json
 
 package main
 
